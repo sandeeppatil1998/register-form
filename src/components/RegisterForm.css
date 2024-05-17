@@ -1,0 +1,65 @@
+.card_body {
+  background-color: #e9f8e5;
+}
+.card-body {
+  background-color: #fcfeff;
+}
+
+.left-logo {
+  width: 70%;
+}
+
+.create-account-header {
+  font-family: poppins;
+  font-weight: 600;
+  font-size: 16px;
+  color: #565656;
+}
+.form-control {
+  border-radius: 10px;
+  border: 2px solid grey;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: #73895d;
+  color: white;
+  border: none;
+}
+
+.or {
+  font-family: poppins;
+  color: #b0bac3;
+}
+
+.social-icon {
+  height: 30px;
+  margin-left: 15px;
+}
+
+.login {
+  color: #73895d;
+  font-weight: bolder;
+  font-family: poppins;
+}
+
+.swipe {
+  font-family: poppins;
+  /* font-size: 2rem; */
+}
+
+.m-swipe {
+  font-size: 13px;
+  font-family: poppins;
+}
+
+.form-label {
+  font-family: poppins;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.m-device {
+  border-radius: 40px;
+  width: 100%;
+}
